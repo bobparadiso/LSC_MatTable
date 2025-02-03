@@ -6,3 +6,5 @@ The other columns should NOT have any spaces.
 
 A row of data should like this:
 aluminum,ED0341800000000000,vid00001.mpg
+
+more info: https://bobparadiso.com/2025/02/03/lsc-material-table/
